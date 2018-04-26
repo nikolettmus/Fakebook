@@ -1,0 +1,83 @@
+.fakebook_head{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.logo{
+width: 100px;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+}
+
+.search{
+  margin-top: -50px;
+  margin-bottom: 50px;
+  margin-right: 20px;
+  margin-left: 150px;
+}
+
+.personal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.image {
+  width: 200px;
+  border-radius: 8px;
+}
+
+.identity{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: red;
+}
+
+h2{
+  font-family: "Courier New";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+.data {
+  font-family: "Courier New";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: ;
+  line-height: 20px;
+}
+
+p{
+  font-family: "Courier New";
+  font-size: 22px;
+  font-style: normal;
+  line-height: 26.4px;
+}
+
+a{
+  text-decoration: none;
+  color: grey;
+}
+
+.head2{
+    margin-top: -520px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 300px;
+}
+
+.other{
+  font-family: "Courier New";
+  font-size: 22px;
+  font-style: normal;
+  line-height: 26.4px;
+  color: black;
+  }
